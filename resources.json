@@ -1,7 +1,7 @@
 {
     "Nell_and_Jim-G_diabetes": {
         "versions": {
-            "1.1.0": [
+            "1.0.0": [
                 "Updated to new version checks.",
                 "Patched progressbars.",
                 "Patched db checks."
